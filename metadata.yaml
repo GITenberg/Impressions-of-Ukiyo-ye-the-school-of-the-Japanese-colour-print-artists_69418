@@ -1,0 +1,39 @@
+_repo: Impressions-of-Ukiyo-ye-the-school-of-the-Japanese-colour-print-artists_69418
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Amsden, Dora
+    birthdate: 1858
+    gutenberg_agent_id: '55168'
+    url: http://www.gutenberg.org/2009/agents/55168
+description: ''
+gutenberg_issued: '2022-11-24'
+identifiers:
+  gutenberg: '69418'
+  lccn: '50041300'
+language: en
+pgterms:marc904: https://archive.org/details/impressionsofuki00amsd/page/n11/mode/2up
+pgterms:marc905: 20220707041247amsden
+pgterms:marc906: '1905'
+pgterms:marc907: us
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United States: Paul Elder and Company,1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Color prints, Japanese'
+- !lcsh 'Wood-engraving -- Japan -- History'
+- !lcsh 'Ukiyoe -- Japan'
+- !lcc 'NE'
+- GITenberg
+tableOfContents: The rise of Ukiyo-ye (the floating world) -- Genroku (the golden
+  era of romance and art) -- The school of Torii (the printers' branch of Ukiyo-ye)
+  -- Utamaro (Le Fondateur de L'École de la Vie) -- The romance of Hokusai (master
+  of Ukiyo-ye) -- Hiroshige (landscape painter and Apostle of Impressionism) -- Analytical
+  comparisons between the masters of Ukiyo-ye -- Hints to collectors of Ukiyo-ye gems
+  -- Bibliography, for use of students -- Fac-similes of the most famous signatures
+  of the Ukiyo-ye artists.
+title: Impressions of Ukiyo-ye, the school of the Japanese colour-print artists
+url: http://www.gutenberg.org/ebooks/69418
