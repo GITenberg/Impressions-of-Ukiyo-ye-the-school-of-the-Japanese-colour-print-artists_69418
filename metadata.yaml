@@ -1,5 +1,8 @@
 _repo: Impressions-of-Ukiyo-ye-the-school-of-the-Japanese-colour-print-artists_69418
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69418-h/images/i-cover.jpg
 creator:
   author:
     agent_name: Amsden, Dora
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '55168'
     url: http://www.gutenberg.org/2009/agents/55168
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69418#Impressions-of-Ukiyo-ye-the-school-of-the-Japanese-colour-print-artists
 gutenberg_issued: '2022-11-24'
 identifiers:
   gutenberg: '69418'
